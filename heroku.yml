@@ -1,0 +1,3 @@
+build:
+  docker:
+    web: <your-dockerhub-username>/<your-repository>:<tag>
